@@ -1,6 +1,6 @@
 Hello Fellow Tech Enthusiasts, This is a simple repository to explain how git commands work and make our lives simpler as developers
 
-```git
+```
 git config --global core.editor "code --wait"
 ```
 
